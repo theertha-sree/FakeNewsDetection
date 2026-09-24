@@ -1,3 +1,11 @@
 venv/
 __pycache__/
 *.pyc
+
+model/model.safetensors
+
+dataset/Fake.csv
+dataset/True.csv
+dataset/news.csv
+dataset/train.csv
+dataset/test.csv
